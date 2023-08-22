@@ -9,6 +9,5 @@ import lombok.Setter;
 @Setter
 @AllArgsConstructor
 @Entity
-public class Insurance {
-
+public class CarInfo {
 }

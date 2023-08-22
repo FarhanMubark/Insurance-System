@@ -1,14 +1,11 @@
 package com.example.insurancesystem.Model;
 
-import jakarta.persistence.Entity;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
-@Getter
 @Setter
+@Getter
 @AllArgsConstructor
-@Entity
-public class Insurance {
-
+public class InsurancePackage {
 }
